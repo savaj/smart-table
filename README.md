@@ -1,5 +1,5 @@
 # smart-table
--inline edit
--bulk delete
--single delete
--add data
+inline edit
+bulk delete
+single delete
+add data
